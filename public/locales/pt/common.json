@@ -1,0 +1,24 @@
+{
+    "language": "Português",
+
+    "WEBSITE_TEXT_DOCUMENT_TITLE_MAIN_APP": "Jonatha Silva",
+    "WEBSITE_TEXT_DOCUMENT_TITLE_404": "404 | Não encontrado",
+
+    "WEBSITE_TEXT_ABOUT_ME": "Sobre mim",
+    "WEBSITE_TEXT_ABOUT_ME_CONTENT": "Como alguém apaixonado por desenvolvimento e aviação, estou sempre buscando aprimorar minhas habilidades em novas tecnologias, mas minha preferência é pelo React e desenvolvimento front-end. Desde 2019, trabalho como desenvolvedor React, aperfeiçoando minhas habilidades ao criar novas funcionalidades em sistemas existentes e também ao desenvolver novos projetos do zero diariamente. Trabalhando em estreita colaboração com a equipe de design, dou feedback sobre melhorias de modelo antes de iniciar o desenvolvimento. Embora eu normalmente trabalhe a partir de modelos do Adobe XD, também tenho a oportunidade de aproveitar minha própria experiência em design para criar aplicativos atraentes. Minha experiência técnica inclui React, HTML, CSS (incluindo pré-processadores como SASS e frameworks como Bootstrap e Bulma) e JavaScript.",
+    "CV_DOWNLOAD_LINK": "https://drive.google.com/u/0/uc?id=15UIu-EnpGWaimiHCWC7v7ejEHV5RaPdv&export=download",
+    "WEBSITE_TEXT_DOWNLOAD_CV": "Baixar currículo",
+    "WEBSITE_TEXT_RESUME": "Currículo",
+    "WEBSITE_TEXT_DEFAULT_LANGUAGE_SET": "O idioma foi setado pelo sistema como: ",
+    "WEBSITE_TEXT_DEFAULT_LANGUAGE_SET_BY_USER": "O idioma foi setado por você como: ",
+    "WEBSITE_TEXT_CHANGE_LANGUAGE": "Mude o idioma",
+    "WEBSITE_TEXT_PORTUGUESE": "Português",
+    "WEBSITE_TEXT_ENGLISH": "Inglês",
+    "WEBSITE_TEXT_VISIT": "Visitar",
+    "WEBSITE_TEXT_404_NOT_FOUNT_TITLE": "404 | Página não encontrada",
+    "WEBSITE_TEXT_404_NOT_FOUNT_DESCRIPTION": "A página que você está tentando acessar não existe.",
+    "WEBSITE_TEXT_HOME": "Início",
+    "WEBSITE_TEXT_NARRATION": "Narração",
+    "WEBSITE_TEXT_NARRATION_SUBTITLE": "Assista ao vídeo pelo link abaixo...",
+    "WEBSITE_TEXT_PLAY": "Assistir"
+}

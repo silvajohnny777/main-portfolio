@@ -1,0 +1,24 @@
+{
+    "language": "English",
+
+    "WEBSITE_TEXT_DOCUMENT_TITLE_MAIN_APP": "Jonatha Silva",
+    "WEBSITE_TEXT_DOCUMENT_TITLE_404": "404 | Not found",
+
+    "WEBSITE_TEXT_ABOUT_ME": "About me",
+    "WEBSITE_TEXT_ABOUT_ME_CONTENT": "As someone who is passionate about both development and aviation, I am constantly seeking to improve my skills in new technologies, with React and front-end development being my preferred areas of focus. Since 2019, I have been working as a React developer, honing my skills by creating new functionalities for existing systems as well as developing new projects from scratch on a daily basis. Working closely with the design team, I provide feedback on template improvements before commencing development. While I typically work from Adobe XD templates, I also have the opportunity to leverage my own design experience to create compelling applications. My technical expertise includes React, HTML, CSS (including preprocessors such as SASS and frameworks like Bootstrap and Bulma), and JavaScript.",
+    "WEBSITE_TEXT_DOWNLOAD_CV": "Download CV",
+    "CV_DOWNLOAD_LINK": "https://drive.google.com/u/0/uc?id=1U96anH3-e59qvrPjJO02NaZNkp9H3pY6&export=download",
+    "WEBSITE_TEXT_DEFAULT_LANGUAGE_SET": "The language has been set by the system as: ",
+    "WEBSITE_TEXT_DEFAULT_LANGUAGE_SET_BY_USER": "The language has been set by you as: ",
+    "WEBSITE_TEXT_CHANGE_LANGUAGE": "Change language",
+    "WEBSITE_TEXT_PORTUGUESE": "Portuguese",
+    "WEBSITE_TEXT_ENGLISH": "English","WEBSITE_TEXT_VISIT": "Access",
+    "WEBSITE_TEXT_404_NOT_FOUNT_TITLE": "404 | Not found",
+    "WEBSITE_TEXT_404_NOT_FOUNT_DESCRIPTION": "The link you are looking for does not exist.",
+    "WEBSITE_TEXT_HOME": "Home",
+    "WEBSITE_TEXT_BLOG_TITLE": "Here lies my blog",
+    "WEBSITE_TEXT_BLOG_CONTENT": "I love to write, so why not write a bit more about my life and share everything I'm experiencing with you all?",
+    "WEBSITE_TEXT_NARRATION": "Narration",
+    "WEBSITE_TEXT_NARRATION_SUBTITLE": "Watch the video by clicking on the link bellow...",
+    "WEBSITE_TEXT_PLAY": "Play"
+}

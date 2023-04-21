@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+  background-color: rgba(0, 0, 0, .5);
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -17,11 +28,41 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: #363636;
+}
+
+.section:first-child::after {
+  background: linear-gradient(54deg,rgba(100,51,128,.95) 34%,rgba(52,87,197,.95));
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  content: "";
+  z-index: 0;
+}
+
+svg {
+  margin: 0 0.5rem 0 0.5rem;
+  opacity: 0.7;
+  transition: .2s;
+}
+
+svg:hover {
+  margin: 0 0.5rem 0 0.5rem;
+  opacity: 1;
+}
+
+.resumeTitle::before {
+  position: absolute;
+  left: -.5rem;
+  content: '';
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  -moz-border-radius: 7.5px;
+  -webkit-border-radius: 7.5px;
+  border-radius: 7.5px;
+  border: 2px solid #643380;
+  background-color: #ffffff;
 }

@@ -7,10 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        'primary': '#643380',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'header_bg_image': "url('/background.webp')",
       },
     },
   },
